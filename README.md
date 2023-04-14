@@ -1,4 +1,4 @@
-Copyright © 2023 ƤӇƠƬƠƝ 𖠰 / MiraiProject Developer ƤӇƠƬƠƝ 𖠰 Team
+Copyright © 2023 yamada 𖠰 / MiraiProject Developer yamada 𖠰 Team
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the “Software”), to deal in 
@@ -18,4 +18,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, 
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE 
 SOFTWARE.
-ALL CREDITS GOES TO ƤӇƠƬƠƝ 𖠰 DON'T CHANGE THE CREDITS OR ELSE YOU WILL BE BAN SOON.
+ALL CREDITS GOES TO yamada 𖠰 DON'T CHANGE THE CREDITS OR ELSE YOU WILL BE BAN SOON.
